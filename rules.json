@@ -1,0 +1,28 @@
+[
+  {
+    "id": "قوانين السيرفر",
+    "title": "قوانين السيرفر",
+    "description": "data/file1.txt"
+  },
+  {
+    "id": "قوانين البيع",
+    "title": "قوانين البيع",
+    "description": "data/file2.txt"
+  },
+  {
+    "id": "معلومات الرتب",
+    "title": "معلومات الرتب",
+    "description": "data/file3.txt"
+  },
+  {
+    "id": "معلومات الاعلانات",
+    "title": "معلومات الاعلانات",
+    "description": "data/file4.txt"
+  },
+  {
+    "id": "اضافات",
+    "title": "اضافات",
+    "description": "data/file5.txt"
+
+  }
+]
